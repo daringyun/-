@@ -112,7 +112,7 @@ Technologies that java programmers need to know
  <tr height="23" style="background-color:var(--color-canvas-subtle);">
   <td height="23" class="xl67" width="148" style="width:111pt;"><span>设计模式</span></td>
   <td class="xl69" width="195" style="width:146pt;">大小端/内存对齐</td>
-  <td class="xl69" width="176" style="width:132pt;">音视频编码/解码</td>
+  <td class="xl69" width="176" style="width:132pt;">音视频编码/解码/FFT</td>
   <td class="xl67" width="116" style="width:87pt;"><span>JUC</span></td>
   <td class="xl67" width="156" style="width:117pt;"><span>spring启动加载</span></td>
   <td class="xl67" width="140" style="width:105pt;"><span>rocketMQ</span></td>
