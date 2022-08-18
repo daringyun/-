@@ -1,4 +1,4 @@
-# involution-matrix
+# competition-matrix
 Technologies that java programmers need to know
 
 <!DOCTYPE HTML><html><head>
